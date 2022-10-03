@@ -1,0 +1,9 @@
+include 'config'
+include 'gateway'
+include 'discovery'
+include 'auth-service'
+include 'broker'
+include 'message-broker'
+include 'message-broker-producer'
+include 'message-broker-consumer'
+
